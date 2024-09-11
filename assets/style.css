@@ -88,3 +88,7 @@
    #container {
     display: flex;
    }
+   .cartao{
+    margin: 1rem 1rem;
+    background-color: aqua;
+   }
