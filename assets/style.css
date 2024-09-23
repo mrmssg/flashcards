@@ -83,8 +83,8 @@
   .cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
 }
-.cartao__conteudo__pergunta,
-.cartao__conteudo__resposta {
+.conteudo__pergunta,
+.conteudo__resposta {
     backface-visibility: hidden;
 }
 
