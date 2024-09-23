@@ -83,15 +83,15 @@
   .cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
 }
-.conteudo__pergunta,
-.conteudo__resposta {
+.cartao__conteudo__pergunta,
+.cartao__conteudo__resposta {
   backface-visibility: hidden;
   position: absolute;
   height: 100%;
   width: 100%;
 }
 
-.conteudo__resposta {
+.cartao__conteudo__resposta {
   transform: rotateY(180deg);
 }
 
@@ -145,11 +145,11 @@
   font-size: 1vw;
   backface-visibility: hidden;
 }
-.conteudo__pergunta p{
+.cartao__conteudo__pergunta p{
   color: var(--text-color);
   font-weight: 500;
 }
-.conteudo__resposta p {
+.cartao__conteudo__resposta p {
   color: var(--card-back-color);
   font-weight: 700;
 }
