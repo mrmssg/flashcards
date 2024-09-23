@@ -85,7 +85,10 @@
 }
 .conteudo__pergunta,
 .conteudo__resposta {
-    backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  height: 100%;
+  width: 100%;
 }
 
 .conteudo__resposta {
