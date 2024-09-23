@@ -78,8 +78,10 @@
     background: url(/assets/img/bg-desktop.webp);
     font-family: Bai Jamjuree;
   }
-.cartao: hoover .cartao__conteudo{
-  transform: rotateY(180deg);
+
+
+  .cartao:hover .cartao__conteudo {
+    transform: rotateY(180deg);
 }
 
 
