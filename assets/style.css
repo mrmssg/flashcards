@@ -172,3 +172,22 @@ footer p{
     font-size: 3.8 vw;
   }
 }
+@media (max-width: 820px){
+  body{
+      background: url(/assets/img/bg-tablet.webp);
+  }
+
+  .cartao{
+ 
+    flex-basis: calc(50% - 6rem);
+}
+  .cartao{
+    flex:1 0 calc(100% - 1rem);
+  }
+  .cartao__conteudo h3{
+    font-size: 3vw;
+  }
+  .cartao__conteudo p{
+    font-size: 3.8 vw;
+  }
+}
