@@ -179,7 +179,7 @@ footer p{
 
   .cartao{
  
-    flex-basis: calc(50% - 6rem);
+    flex-basis: calc(40% - 6rem);
 }
   .cartao{
     flex:1 0 calc(100% - 1rem);
