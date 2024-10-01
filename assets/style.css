@@ -93,6 +93,7 @@
 
 .cartao__conteudo__resposta {
   transform: rotateY(180deg);
+  background-color: rdba(0, 244, 191, 0.2);
 }
 
 .cartao__conteudo p {
