@@ -20,3 +20,8 @@ criaCartao(
     'Como se diz OI em inglês?',
     'Oi em ingles é HI (RAI)'
 ) 
+criaCartao(
+    'Matemática',
+    'Fale o Teorema de Pitágoras',
+    'Em todo triângulo retângulo, o quadrado da Hipotenusa é igual a soma dos qudrados dos Catetos'
+) 
