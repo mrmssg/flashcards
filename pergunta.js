@@ -30,3 +30,18 @@ criaCartao(
     'O que significa HTML',
     'Linguagem de Marcação de HiperTexto'
 ) 
+criaCartao(
+    'Programação',
+    'O que CSS',
+    'CSS (Cascading Style Sheets) é uma linguagem de estilo usada para descrever a aparência de documentos escritos em linguagens como HTML, XML ou SVG, controlando cores, fontes, espaçamento e layout.'
+)
+criaCartao(
+    'Programação',
+    'O que é variável',
+    'é um espaço nomeado na memória do computador que armazena um valor, como um número, texto ou informação booleana.'
+) 
+criaCartao(
+    'Programação',
+    'O que é uma constante',
+    'é um nome ou identificador que representa um valor fixo e imutável, ou seja, um valor que não pode ser alterado durante a execução de um programa.'
+) 
