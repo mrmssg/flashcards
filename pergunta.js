@@ -45,3 +45,15 @@ criaCartao(
     'O que é uma constante',
     'é um nome ou identificador que representa um valor fixo e imutável, ou seja, um valor que não pode ser alterado durante a execução de um programa.'
 ) 
+
+criaCartao(
+    'Geografia',
+    'Qual o maior pais do mundo',
+    'O maior país do mundo é a Russia.'
+) 
+
+criaCartao(
+    'História',
+    'Quem colocou fogo em Roma',
+    'Nero.'
+) 
